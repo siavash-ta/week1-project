@@ -1,0 +1,167 @@
+header {
+  background-color: white;
+  font-size: 1.25rem;
+}
+a:visited {
+  color: blue;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #0073f3;
+  background-image: url("a.jpeg");
+
+  background-size: contain;
+}
+
+header {
+  color: white;
+}
+
+.avatar {
+  max-width: 10%;
+  float: left;
+  height: auto;
+  margin: 10px 10px;
+
+  border-radius: 50%;
+}
+
+.main {
+  background-image: url("background.jpg");
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+  color: white;
+  margin: 1rem;
+  font-size: 1rem;
+  text-align: inherit;
+  padding: 10px;
+  border: 1px solid #fcdab7;
+  border-radius: 5px;
+  background-color: rgb(33, 128, 149);
+}
+
+.exp {
+  opacity: 90%;
+  width: 45%;
+  float: left;
+  margin: 1rem 0 auto 1rem;
+  font-size: 1rem;
+  text-align: inherit;
+  padding: 10px;
+  border: 10px double #fcdab7;
+  border-radius: 15px;
+  border-collapse: collapse;
+  background-color: rgb(33, 128, 149);
+  list-style-position: inside;
+}
+
+.projects {
+  opacity: 90%;
+  float: right;
+  margin: 1rem 1rem 0 0;
+  font-size: 1rem;
+  width: 45%;
+  text-align: inherit;
+  padding: 10px;
+  border: 10px double #fcdab7;
+  border-radius: 15px;
+  border-collapse: collapse;
+  background-color: rgb(33, 128, 149);
+  margin-top: 1rem;
+}
+
+.skills {
+  opacity: 90%;
+  float: right;
+  font-size: 1rem;
+  width: 45%;
+  text-align: inherit;
+  padding: 10px;
+  border: 10px double #fcdab7;
+  border-radius: 15px;
+  border-collapse: collapse;
+  background-color: rgb(33, 128, 149);
+  margin: 1rem 1rem 0 0;
+  list-style-position: inside;
+}
+
+.ed {
+  opacity: 90%;
+  float: right;
+  margin: 1rem 1rem 0 0;
+  font-size: 1rem;
+  width: 45%;
+  text-align: inherit;
+  padding: 10px;
+  border: 10px double #fcdab7;
+  border-radius: 15px;
+  border-collapse: collapse;
+  background-color: rgb(33, 128, 149);
+}
+.prof {
+  opacity: 90%;
+  float: left;
+  margin: 1rem 0 0 1rem;
+  font-size: 1rem;
+  width: 45%;
+  text-align: inherit;
+  padding: 10px;
+  border: 10px double #fcdab7;
+  border-radius: 15px;
+  border-collapse: collapse;
+  list-style-position: inside;
+  background-color: rgb(33, 128, 149);
+}
+.pers {
+  opacity: 90%;
+  float: right;
+  margin: 1rem 1rem 0 0;
+  font-size: 1rem;
+  width: 45%;
+  text-align: inherit;
+  padding: 10px;
+  border: 10px double #fcdab7;
+  border-radius: 15px;
+  border-collapse: collapse;
+  background-color: rgb(33, 128, 149);
+}
+h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+h4 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+h5 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+h6 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+.head {
+  font-size: 1.5rem;
+}
+.footer1 {
+  font-size: 0.7rem;
+  float: left;
+  margin: 3rem auto 0 auto;
+  color: rgb(8, 255, 8);
+}
+table,
+th,
+td {
+  border: 1px double black;
+  text-align: center;
+  margin-inline-start: 1rem;
+  margin-top: 1rem;
+  border-collapse: collapse;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
